@@ -1,6 +1,6 @@
 # Video_Games_Ratings_from_structural_characteristics
 
-My name is Ravi Kant Sharma and this is the details of capstone project submission for Imarticus Learning Institute in Data Science certificate program titled, “Games Rating! Investigating the Structural Characteristics that Make Highly-Rated Video Games.
+My name is Ravi Kant Sharma and this is the details of capstone project submission for Imarticus Learning Institute in Data Analyst certificate program titled, “Games Rating! Investigating the Structural Characteristics that Make Highly-Rated Video Games.
 In this project, I use Natural Language Processing and Machine Learning techniques to extract structural characteristics of video games to predict a rating score (meta score). I also perform various methods of data visualization and communication to convey findings and actionable insights.
 
 
