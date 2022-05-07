@@ -5,8 +5,13 @@ In this project, I use Natural Language Processing and Machine Learning techniqu
 
 In this Data, Column Description is :
 name: contains the name/title of the video game
+
 platform: contains the computer system the game runs on
+
 release_date: the date when the game was released; includes the Month, Day and Year (in that order)
+
 summary: the game's premise; includes 'Game of the Year' tag
+
 meta_score: meta score received; integer from 0-100
+
 user_review: user score received; decimal from 0-10
